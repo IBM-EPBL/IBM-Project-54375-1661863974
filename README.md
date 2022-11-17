@@ -1,5 +1,5 @@
 
-                                            University Admit Eligibility Predictor
+      University Admit Eligibility Predictor
  ![IBM](https://user-images.githubusercontent.com/84871301/202194255-60c1d255-8682-41ad-807f-eb1aa176a1a9.jpeg)
 
 
@@ -34,5 +34,5 @@ About: The graduate studies dataset is a dataset which describes the acceptance 
 8. Chance of Admittance (ranging from 0 to 1)
 
 This dataset was built with the purpose of helping students to shortlist universities based on their profiles. The predicted output gives them a fair idea about their chances for a particular university. This dataset is inspired by the UCLA Graduate Dataset from Kaggle.
-image
+
 
